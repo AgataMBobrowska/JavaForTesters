@@ -21,6 +21,6 @@ public class Student {
 
         }
     public static void infoUczelnia(){
-        System.out.println("AGH");
+        System.out.println("Studenci "+nazwaUczelni);
     }
 }
